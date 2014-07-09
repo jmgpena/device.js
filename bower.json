@@ -1,0 +1,19 @@
+{
+  "name": "device.js",
+  "version": "0.1.61",
+  "homepage": "http://matthewhudson.me/projects/device.js/",
+  "author": "Matthew Hudson",
+  "license": "MIT",
+
+  "main": [
+    "./lib/device.js"
+  ],
+  "ignore": [
+    "gruntfile.coffee",
+    "README.markdown",
+    "bower.json",
+    "examples",
+    "package.json",
+    "src"
+  ]
+}
